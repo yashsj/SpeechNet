@@ -34,3 +34,9 @@ See `requirements.txt` (librosa, tensorflow, matplotlib, pandas, etc.)
 - Trimmed audio data improved model consistency and generalization.
 - Most misclassifications occurred with noisy samples containing both speech and strong music elements.
 - Data augmentation (e.g., noise injection or pitch shift) could further improve results.
+<img width="1188" height="522" alt="Result" src="https://github.com/user-attachments/assets/4ace9c2b-0c5a-4951-b18f-bd270ee1253e" />
+
+
+<img width="1081" height="600" alt="CNN_GPU_Model" src="https://github.com/user-attachments/assets/b9ca830d-49ba-4844-92cf-00c11f2160b4" />
+
+
