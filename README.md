@@ -27,3 +27,10 @@ See `requirements.txt` (librosa, tensorflow, matplotlib, pandas, etc.)
 - Classifies audio as speech or not-speech using deep learning.
 - Extracts and visualizes signal features for training and model evaluation.
 
+## Observations
+
+- The ANN/CNN achieved an accuracy of approximately 82% in speech classification.
+- Spectrogram and MFCC features were crucial for distinguishing speech from music.
+- Trimmed audio data improved model consistency and generalization.
+- Most misclassifications occurred with noisy samples containing both speech and strong music elements.
+- Data augmentation (e.g., noise injection or pitch shift) could further improve results.
